@@ -8,7 +8,7 @@ public class BasicsAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BasicsAppApplication.class, args);
-//        Start of video 1.2
+//        End of video 1.2
     }
 
 }
